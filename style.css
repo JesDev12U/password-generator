@@ -87,8 +87,12 @@ body {
     }
 
     .password-container p{
-        font-size: 2rem;
+        font-size: 1.5rem;
         width: auto;
+    }
+
+    .password-container {
+        width: 90%;
     }
 }
 
