@@ -26,6 +26,7 @@ body {
 
 .main-container #dark-light-theme {
     font-size:2rem;
+    cursor: pointer;
 }
 
 #description {
@@ -89,4 +90,9 @@ body {
         font-size: 2rem;
         width: auto;
     }
+}
+
+.dark-theme {
+    background-color:rgb(23, 23, 23);
+    color: white;
 }
